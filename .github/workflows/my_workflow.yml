@@ -5,7 +5,6 @@ name: Freds First Workflow
 # Controls when the workflow will run
 on:
   workflow_dispatch:
-
 jobs:
   freds_first_job:
     runs-on: ubuntu-latest #linux
